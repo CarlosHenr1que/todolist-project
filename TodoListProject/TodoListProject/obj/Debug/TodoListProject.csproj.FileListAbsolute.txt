@@ -1,0 +1,341 @@
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe.config
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\TodoListProject.pdb
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Properties.Resources.resources
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Form1.resources
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe.licenses
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CopyComplete
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.pdb
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ProjectItem.resources
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.NewProject.resources
+C:\Users\Felipe\source\repos\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ProjectsList.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe.config
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\TodoListProject.pdb
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csprojAssemblyReference.cache
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Properties.Resources.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.NewProject.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ProjectItem.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ProjectsList.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.SignIn.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe.licenses
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CopyComplete
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.pdb
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.SignUp.resources
+C:\Users\Felipe\Documents\Projects\Projeto Porgramação Avançada - Gregory\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Main.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe.config
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\TodoListProject.pdb
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\MySql.Data.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Buffers.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Memory.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Zstandard.Net.dll
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Google.Protobuf.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\MySql.Data.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\Renci.SshNet.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Buffers.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Memory.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csprojAssemblyReference.cache
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Properties.Resources.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Main.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.NewProject.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ProjectsList.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.SignIn.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.SignUp.resources
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.GenerateResource.cache
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe.licenses
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CopyComplete
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.pdb
+C:\Users\Carlo\Documents\todolist-project\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ShowProject.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe.config
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\TodoListProject.exe
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\TodoListProject.pdb
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\bdr.exe
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\MySql.Data.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Buffers.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Memory.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Zstandard.Net.dll
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Google.Protobuf.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\MySql.Data.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\Renci.SshNet.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Buffers.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Memory.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csprojAssemblyReference.cache
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Properties.Resources.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.Main.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.NewProject.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ProjectsList.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.SignIn.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.SignUp.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.ShowProject.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.GenerateResource.cache
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe.licenses
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.csproj.CopyComplete
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.exe
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.pdb
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.NewTask.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.EditTask.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.Perfil.resources
+C:\Users\Carlo\Downloads\todolist-project-master\TodoListProject\TodoListProject\obj\Debug\TodoListProject.View.Home.resources
